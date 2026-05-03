@@ -1,0 +1,16 @@
+python>=3.10,<3.12
+transformers==4.38.2
+tokenizers==0.15.2
+huggingface-hub==0.19.4
+numpy
+regex
+safetensors
+torch
+opencv-python==4.9.0.80
+pillow
+tqdm
+scikit-learn
+matplotlib
+sqlite-utils
+gradio==3.50.2
+google-generativeai==0.10.0

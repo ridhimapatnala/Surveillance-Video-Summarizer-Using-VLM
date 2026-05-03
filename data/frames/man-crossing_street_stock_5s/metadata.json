@@ -1,0 +1,20 @@
+[
+  {
+    "frame": "frame_000000.jpg",
+    "timestamp_seconds": 0.0,
+    "source_frame_id": 0,
+    "sampling_rate_seconds": 5
+  },
+  {
+    "frame": "frame_000001.jpg",
+    "timestamp_seconds": 4.96,
+    "source_frame_id": 119,
+    "sampling_rate_seconds": 5
+  },
+  {
+    "frame": "frame_000002.jpg",
+    "timestamp_seconds": 9.93,
+    "source_frame_id": 238,
+    "sampling_rate_seconds": 5
+  }
+]

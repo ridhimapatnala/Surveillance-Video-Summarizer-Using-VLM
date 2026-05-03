@@ -1,0 +1,188 @@
+[
+  {
+    "frame": "frame_000000.jpg",
+    "timestamp_seconds": 0.0,
+    "source_frame_id": 0,
+    "sampling_rate_seconds": 1
+  },
+  {
+    "frame": "frame_000001.jpg",
+    "timestamp_seconds": 1.0,
+    "source_frame_id": 30,
+    "sampling_rate_seconds": 1
+  },
+  {
+    "frame": "frame_000002.jpg",
+    "timestamp_seconds": 2.0,
+    "source_frame_id": 60,
+    "sampling_rate_seconds": 1
+  },
+  {
+    "frame": "frame_000003.jpg",
+    "timestamp_seconds": 3.0,
+    "source_frame_id": 90,
+    "sampling_rate_seconds": 1
+  },
+  {
+    "frame": "frame_000004.jpg",
+    "timestamp_seconds": 4.0,
+    "source_frame_id": 120,
+    "sampling_rate_seconds": 1
+  },
+  {
+    "frame": "frame_000005.jpg",
+    "timestamp_seconds": 5.0,
+    "source_frame_id": 150,
+    "sampling_rate_seconds": 1
+  },
+  {
+    "frame": "frame_000006.jpg",
+    "timestamp_seconds": 6.0,
+    "source_frame_id": 180,
+    "sampling_rate_seconds": 1
+  },
+  {
+    "frame": "frame_000007.jpg",
+    "timestamp_seconds": 7.0,
+    "source_frame_id": 210,
+    "sampling_rate_seconds": 1
+  },
+  {
+    "frame": "frame_000008.jpg",
+    "timestamp_seconds": 8.0,
+    "source_frame_id": 240,
+    "sampling_rate_seconds": 1
+  },
+  {
+    "frame": "frame_000009.jpg",
+    "timestamp_seconds": 9.0,
+    "source_frame_id": 270,
+    "sampling_rate_seconds": 1
+  },
+  {
+    "frame": "frame_000010.jpg",
+    "timestamp_seconds": 10.0,
+    "source_frame_id": 300,
+    "sampling_rate_seconds": 1
+  },
+  {
+    "frame": "frame_000011.jpg",
+    "timestamp_seconds": 11.0,
+    "source_frame_id": 330,
+    "sampling_rate_seconds": 1
+  },
+  {
+    "frame": "frame_000012.jpg",
+    "timestamp_seconds": 12.0,
+    "source_frame_id": 360,
+    "sampling_rate_seconds": 1
+  },
+  {
+    "frame": "frame_000013.jpg",
+    "timestamp_seconds": 13.0,
+    "source_frame_id": 390,
+    "sampling_rate_seconds": 1
+  },
+  {
+    "frame": "frame_000014.jpg",
+    "timestamp_seconds": 14.0,
+    "source_frame_id": 420,
+    "sampling_rate_seconds": 1
+  },
+  {
+    "frame": "frame_000015.jpg",
+    "timestamp_seconds": 15.0,
+    "source_frame_id": 450,
+    "sampling_rate_seconds": 1
+  },
+  {
+    "frame": "frame_000016.jpg",
+    "timestamp_seconds": 16.0,
+    "source_frame_id": 480,
+    "sampling_rate_seconds": 1
+  },
+  {
+    "frame": "frame_000017.jpg",
+    "timestamp_seconds": 17.0,
+    "source_frame_id": 510,
+    "sampling_rate_seconds": 1
+  },
+  {
+    "frame": "frame_000018.jpg",
+    "timestamp_seconds": 18.0,
+    "source_frame_id": 540,
+    "sampling_rate_seconds": 1
+  },
+  {
+    "frame": "frame_000019.jpg",
+    "timestamp_seconds": 19.0,
+    "source_frame_id": 570,
+    "sampling_rate_seconds": 1
+  },
+  {
+    "frame": "frame_000020.jpg",
+    "timestamp_seconds": 20.0,
+    "source_frame_id": 600,
+    "sampling_rate_seconds": 1
+  },
+  {
+    "frame": "frame_000021.jpg",
+    "timestamp_seconds": 21.0,
+    "source_frame_id": 630,
+    "sampling_rate_seconds": 1
+  },
+  {
+    "frame": "frame_000022.jpg",
+    "timestamp_seconds": 22.0,
+    "source_frame_id": 660,
+    "sampling_rate_seconds": 1
+  },
+  {
+    "frame": "frame_000023.jpg",
+    "timestamp_seconds": 23.0,
+    "source_frame_id": 690,
+    "sampling_rate_seconds": 1
+  },
+  {
+    "frame": "frame_000024.jpg",
+    "timestamp_seconds": 24.0,
+    "source_frame_id": 720,
+    "sampling_rate_seconds": 1
+  },
+  {
+    "frame": "frame_000025.jpg",
+    "timestamp_seconds": 25.0,
+    "source_frame_id": 750,
+    "sampling_rate_seconds": 1
+  },
+  {
+    "frame": "frame_000026.jpg",
+    "timestamp_seconds": 26.0,
+    "source_frame_id": 780,
+    "sampling_rate_seconds": 1
+  },
+  {
+    "frame": "frame_000027.jpg",
+    "timestamp_seconds": 27.0,
+    "source_frame_id": 810,
+    "sampling_rate_seconds": 1
+  },
+  {
+    "frame": "frame_000028.jpg",
+    "timestamp_seconds": 28.0,
+    "source_frame_id": 840,
+    "sampling_rate_seconds": 1
+  },
+  {
+    "frame": "frame_000029.jpg",
+    "timestamp_seconds": 29.0,
+    "source_frame_id": 870,
+    "sampling_rate_seconds": 1
+  },
+  {
+    "frame": "frame_000030.jpg",
+    "timestamp_seconds": 30.0,
+    "source_frame_id": 900,
+    "sampling_rate_seconds": 1
+  }
+]
